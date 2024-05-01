@@ -2,7 +2,19 @@ html, body {
     margin: 0;
     padding: 0;
 }
+body {
+    background-color: #EEE;
+    font-family: "Lato", sans-serif;
+}
 /*ICONS*/
 .bi {
     color: red;
+}
+.container-game {
+    border: solid 10px #a4733e ;
+    min-height: 100vh
+    
+}
+.content {
+    text-align: center;
 }
