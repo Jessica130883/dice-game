@@ -28,12 +28,17 @@ body {
 .button, .clockwise, .in-down {
     color: #808080;
 }
+.button {
+    font-weight: 300;
+}
 .current-nb {
     color: white;
+    font-size: 20px;
 }
 .score-nb {
     color: #C5000F;
     font-size: 50px;
+    font-weight: 100;
 }
 
 .new-game {
@@ -44,7 +49,12 @@ body {
 }
 .text-current {
     font-size: 10px;
+    font-weight: 300;
+}
+.title-player2 {
+    margin-top: 30px;
 }
 .text-player1, .text-player2 {
     font-size: 18px;
+    font-weight: 300;
 }
