@@ -42,3 +42,9 @@ body {
 .container-play {
     margin-top: 30px;
 }
+.text-current {
+    font-size: 10px;
+}
+.text-player1, .text-player2 {
+    font-size: 18px;
+}
